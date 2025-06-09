@@ -1,3 +1,4 @@
+
 import datetime
 user_name=input("enter the User name :")
 Quantity=int(input("How many Phones you wanted to buy : "))
